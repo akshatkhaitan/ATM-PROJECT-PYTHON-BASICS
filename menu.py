@@ -1,4 +1,5 @@
 def display_menu():
+    print("\n\n")
     print("*" * 10 + "Enter Your Choice(1 to 6)" + "*" * 10)
     print("1. Send Money")
     print("2. Create New Account")
